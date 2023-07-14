@@ -1,0 +1,16 @@
+name: Monsler Note
+version: 1.0.0
+description: Example
+deps:
+  jphp-core: '*'
+  jphp-zend-ext: '*'
+  jphp-gui-ext: '*'
+  jphp-xml-ext: '*'
+plugins:
+- App
+sources:
+- src
+- src/img
+- src/themes
+includes:
+- index.php

@@ -1,0 +1,29 @@
+dependencies:
+  jphp-core:
+    version: 1.3.1
+    info: [
+      ]
+  jphp-runtime:
+    version: 1.3.1
+    info: [
+      ]
+  jphp-zend-ext:
+    version: 1.1.0
+    info: [
+      ]
+  jphp-json-ext:
+    version: 1.0.0
+    info: [
+      ]
+  jphp-gui-ext:
+    version: 3.0.1
+    info: [
+      ]
+  jphp-xml-ext:
+    version: 1.0.0
+    info: [
+      ]
+  jphp-graphic-ext:
+    version: 1.0.0
+    info: [
+      ]
